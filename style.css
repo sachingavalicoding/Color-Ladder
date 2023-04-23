@@ -14,8 +14,8 @@ body{
     
 }
 .container{
-    width:30vw;
-    height: 30vw;
+    width:300px;
+    height: 400px;
     background-color: azure;
     display: flex;
     align-items: center;
@@ -32,8 +32,7 @@ body{
 .colorName{
     background-color: white;
     border:1px solid black;
-    width: 20vw;
-    height: 10vh;
+    width: 100%;
     background-color: azure;
     display: flex;
     align-items: center;
@@ -44,7 +43,7 @@ body{
     color:black;
 }
 button{
-    padding:15px 50px;
+    padding:11px 30px;
     border:none;
     background-color: green;
     color:white;
